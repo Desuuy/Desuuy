@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Desuuy/Desuuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi there 👋, I'm Huy-Nguyen 
 
-Here are some ideas to get you started:
+  ### A passionate student exploring the realms of AI and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github.com/Desuuy/Desuuy/blob/main/50c738083fa2175842f6448e2e610b45.gif" width="70%" alt="Banner" />
+
+</div>
+
+
+
+### 🚀 About Me:
+
+- 🎓 I’m an undergraduate student majoring in **Data Science** at HUFLIT - Ho Chi Minh City University of Foreign Languages – Information Technology.
+- 💡 My academic passion lies in exploring the fascinating domains of **Artificial Intelligence** and **Data Science**.
+- 🔬 I’m actively involved in research and hands-on projects, striving to deepen my expertise and contribute to groundbreaking advancements in AI and DS.
+
+### My Goals:
+
+- 🎯 Enhance my knowledge in AI/DS through real-world projects and collaborations.
+- 🌱 Continuously learning cutting-edge technologies.
+
+### 🌐 Connect with Me:
+
+<p align="center">
+<a href="https://www.linkedin.com/in/desuuy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/AnhHuy2823">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+</p>
+
+
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Desuuy&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desuuy&layout=compact&theme=radical" height="150" />
+</div>
+
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Desuuy&theme=redical)
+
+
