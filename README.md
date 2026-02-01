@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=280&section=header&text=Desuuy&fontSize=90&fontColor=f0f6fc&desc=AI%20Research%20%7C%20Computer%20Vision%20%7C%20Data%20Engineering&descSize=22&descAlignY=85&animation=twinkling&stroke=58a6ff&strokeWidth=1" style="border-radius: 25px;" />
+</div>
+
+<div align="center">
 
   # Hi there 👋, I'm Huy-Nguyen (Desuuy)
 
