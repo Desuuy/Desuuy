@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there 👋, I'm Huy-Nguyen 
+  # Hi there 👋, I'm Huy-Nguyen (Desuuy)
 
   ### A passionate student exploring the realms of AI and Data Science
 
@@ -31,14 +31,6 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 </p>
-
-
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Desuuy&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desuuy&layout=compact&theme=radical" height="150" />
-</div>
 
 
 ## 📈 Activity Graph
