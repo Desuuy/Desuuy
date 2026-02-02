@@ -38,6 +38,7 @@
 
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Desuuy&theme=redical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Desuuy&bg_color=0d1117&color=FFFDF1&line=FFCE99&point=EA7B7B&area=true&area_color=FFEAD3)
+
 
 
