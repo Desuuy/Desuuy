@@ -32,7 +32,7 @@
 </a>
 </p>
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Desuuy&theme=tokyonight" alt="Desuuy's Streak" />
