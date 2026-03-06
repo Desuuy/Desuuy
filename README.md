@@ -21,7 +21,7 @@
 - 🎯 Enhance my knowledge in AI/DS through real-world projects and collaborations.
 - 🌱 Continuously learning cutting-edge technologies.
 
-## Connect with Me:
+### Connect with Me:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/desuuy/">
@@ -32,7 +32,7 @@
 </a>
 </p>
 
-### Activity
+## Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Desuuy&theme=tokyonight" alt="Desuuy's Streak" />
