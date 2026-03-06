@@ -10,7 +10,7 @@
 
 
 
-### 🚀 About Me:
+### About Me:
 
 - 🎓 I’m an undergraduate student majoring in **Data Science** at HUFLIT - Ho Chi Minh City University of Foreign Languages – Information Technology.
 - 💡 My academic passion lies in exploring the fascinating domains of **Artificial Intelligence** and **Data Science**.
