@@ -35,6 +35,10 @@
 ## Activity
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Desuuy&theme=tokyonight&exclude=Jupyter%20Notebook" alt="Languages Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Desuuy&theme=tokyonight" alt="Desuuy's Streak" />
 </p>
 
