@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Hi there 👋, I'm Huy-Nguyen (Desuuy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&width=700&height=50&lines=Hi+there+👋,+I'm+Huy-Nguyen+(Desuuy);AI+/+Data+Engineer+Researcher)](https://git.io/typing-svg)
 
-  ### A passionate student exploring the realms of AI and Data Science
+#### A passionate student exploring the realms of AI and Data Science
 
   <img src="https://github.com/Desuuy/Desuuy/blob/main/50c738083fa2175842f6448e2e610b45.gif" width="70%" alt="Banner" />
 
