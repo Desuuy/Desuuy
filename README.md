@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&width=700&height=50&lines=Hi+there+👋,+I'm+Huy-Nguyen+(Desuuy);AI+/+Data+Engineer+Researcher)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Hi+there+👋,+I'm+Huy-Nguyen+(Desuuy);AI+/+Data+Engineer+Researcher" alt="Typing SVG" />
+</p>
 
 #### A passionate student exploring the realms of AI and Data Science
 
