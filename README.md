@@ -3,11 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Hi+there+👋,+I'm+Huy-Nguyen+(Desuuy);AI+/+Data+Engineer+Researcher" alt="Typing SVG" />
 </p>
-
-#### A passionate student exploring the realms of AI and Data Science
-
-  <img src="https://github.com/Desuuy/Desuuy/blob/main/50c738083fa2175842f6448e2e610b45.gif" width="70%" alt="Banner" />
-
+  <img src="https://github.com/Desuuy/Desuuy/blob/main/50c738083fa2175842f6448e2e610b45.gif" width="60%" alt="Banner" />
 </div>
 
 
@@ -46,5 +42,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Desuuy&bg_color=0d1117&color=FFFDF1&line=FFCE99&point=EA7B7B&area=true&area_color=FFEAD3)
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer" alt="Footer Banner" width="100%" />
+</p>
 
