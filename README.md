@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Hi+there+👋,+I'm+Huy-Nguyen+(Desuuy);AI+/+Data+Researcher" alt="Typing SVG" />
 </p>
-  <img src="https://github.com/Desuuy/Desuuy/blob/main/50c738083fa2175842f6448e2e610b45.gif" width="60%" alt="Banner" />
+  <img src="https://github.com/Desuuy/Desuuy/blob/main/50c738083fa2175842f6448e2e610b45.gif" width="70%" alt="Banner" />
 </div>
 
 
