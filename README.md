@@ -22,8 +22,6 @@
 
 - Goal: Bridging the gap between academic research and real-world AI applications.
 
-### Connect with Me:
-
 <p align="center">
 <a href="https://www.linkedin.com/in/desuuy/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -35,7 +33,6 @@
 </a>
 </p>
 
-## Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Desuuy&theme=tokyonight" alt="Desuuy's Streak" />
