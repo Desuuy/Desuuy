@@ -3,12 +3,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Hi+there+👋,+I'm+Huy-Nguyen+(Desuuy);AI+/+Data+Researcher" alt="Typing SVG" />
 </p>
-  <img src="https://github.com/Desuuy/Desuuy/blob/main/50c738083fa2175842f6448e2e610b45.gif" width="90%" alt="Banner" />
+  <img src="https://github.com/Desuuy/Desuuy/blob/main/50c738083fa2175842f6448e2e610b45.gif" width="70%" alt="Banner" />
 </div>
 
 
 
-## About Me
+### About Me
 
 - Senior Data Science Student [HUFLIT](https://huflit.edu.vn/)
 
@@ -22,7 +22,7 @@
 
 - Goal: Bridging the gap between academic research and real-world AI applications.
 
-## Connect with Me:
+### Connect with Me:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/desuuy/">
