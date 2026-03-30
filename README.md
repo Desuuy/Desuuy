@@ -8,18 +8,21 @@
 
 
 
-### About Me:
+## About Me
 
-- 🎓 I’m an undergraduate student majoring in **Data Science** at HUFLIT - Ho Chi Minh City University of Foreign Languages – Information Technology.
-- 💡 My academic passion lies in exploring the fascinating domains of **Artificial Intelligence** and **Data Science**.
-- 🔬 I’m actively involved in research and hands-on projects, striving to deepen my expertise and contribute to groundbreaking advancements in AI and DS.
+- Senior Data Science Student [HUFLIT](https://huflit.edu.vn/)
 
-### My Goals:
+- Core Interests: Computer Vision | Autonomous Agents | Large Language Models
 
-- 🎯 Enhance my knowledge in AI/DS through real-world projects and collaborations.
-- 🌱 Continuously learning cutting-edge technologies.
+- Research Focus:
 
-### Connect with Me:
+  - AI in Biomedical & Healthcare: Developing advanced AI solutions for medical analysis.
+
+  - Large Language Models (LLMs): Exploring RAG and Reasoning Learning to enhance model reliability and logical inference.
+
+- Goal: Bridging the gap between academic research and real-world AI applications.
+
+## Connect with Me:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/desuuy/">
