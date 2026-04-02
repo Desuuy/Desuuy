@@ -19,6 +19,10 @@ AI Researcher focusing on the intersection of Biomedical AI and Agentic LLM work
 * 🎓 **Affiliation:** Final-year Data Science Student at [HUFLIT](https://huflit.edu.vn/).
 * 🔬 **Core Research:** Medical Imaging Segmentation, LLM Reasoning.
 
+### 📚 Selected Publication
+* **HyMoENet: Mixture-of-Experts Enhanced CNN-Transformer Hybrid Framework for Classifying Anatomical Sites in Endoscopic ENT Images** *ACM Multimedia (ACM MM) 2025* | [Paper](https://dl.acm.org/doi/10.1145/3746027.3762092)
+  > Proposed a novel MoE-based hybrid framework for medical imaging, achieving **97.5% accuracy** in ENT anatomical site classification.
+
 ---
 
 ### 🛠️ Technical Competencies
