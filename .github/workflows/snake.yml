@@ -11,13 +11,14 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: Generate the snake animation
+      - name: Generate the dragon animation
         uses: Platane/snk@v3
         with:
           github_user_name: Desuuy
+          # Tùy chỉnh màu sắc: Snake (Rồng) màu #36BCF7, các ô đóng góp chuyển từ xanh đậm sang xanh neon
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#36BCF7&color_dots=#161b22,#073d5e,#0a5d91,#0d7cc4,#36BCF7
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#36BCF7&color_dots=#161b22,#073d5e,#0a5d91,#0d7cc4,#36BCF7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
