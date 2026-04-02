@@ -48,3 +48,10 @@ AI Researcher focusing on the intersection of Biomedical AI and Agentic LLM work
 <div align="right">
   <em>"The goal is not just to build models, but to solve real-world complexities."</em>
 </div>
+
+### 🐍 GitHub Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Desuuy/Desuuy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Desuuy/Desuuy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Desuuy/Desuuy/output/github-contribution-grid-snake.svg">
+</picture>
