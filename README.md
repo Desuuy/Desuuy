@@ -17,7 +17,7 @@
 AI Researcher focusing on the intersection of Biomedical AI and Agentic LLM workflows. I explore the synergy between Reasoning learning and RAG architectures, dedicated to bridging the gap between theoretical research and reliable, production-ready healthcare solutions.
 
 * 🎓 **Affiliation:** Final-year Data Science Student at [HUFLIT](https://huflit.edu.vn/).
-* 🔬 **Core Research:** Medical Imaging Segmentation, LLM Reasoning.
+* 🔬 **Core Research:** Medical Imaging Segmentation, LLM Reasoning, AI Agent.
 
 ### 📚 Selected Publication
 * **HyMoENet: Mixture-of-Experts Enhanced CNN-Transformer Hybrid Framework for Classifying Anatomical Sites in Endoscopic ENT Images** *ACM Multimedia (ACM MM) 2025* | [Paper](https://dl.acm.org/doi/10.1145/3746027.3762092)
