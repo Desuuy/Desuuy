@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Anh Huy Nguyen (Desuuy)</h1>
+  <h1>Huy Nguyen (Desuuy)</h1>
   <p align="center">
     <strong>Artificial Intelligence Researcher</strong><br>
     Focusing on Computer Vision & Large Language Models for Biomedical Applications
