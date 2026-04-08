@@ -33,7 +33,7 @@ AI Researcher focusing on the intersection of Biomedical AI and Agentic LLM work
 | **Deep Learning** | `PyTorch`, `TensorFlow`, `OpenCV` |
 | **LLM Ecosystem** | `LangChain`, `LlamaIndex`, `VectorDB (Chroma/FAISS)`, `RAG Optimization` |
 | **Engineering** | `Python (Advanced)`, `C#`, `Docker`, `Git-flow`, `MLflow`, `CI/CD` |
-| **Infrastructure** | `Linux/Ubuntu`, `AWS (Candidate)`, `NVIDIA CUDA` |
+| **Infrastructure** | `Linux/Ubuntu`, `AWS`, `NVIDIA CUDA`, `Azure` |
 
 </div>
 
