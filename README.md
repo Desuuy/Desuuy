@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Anh Huy Nguyen (Desuuy)</h1>
   <p align="center">
-    <strong>Artificial Intelligence Researcher</strong><br>
+    <strong>AI Researcher</strong><br>
     Focusing on Computer Vision & Large Language Models for Biomedical Applications
   </p>
 
