@@ -19,7 +19,7 @@
 ### 📝 Executive Summary
 AI Researcher focusing on the intersection of Biomedical AI and Agentic LLM workflows. I explore the synergy between Reasoning learning and RAG architectures, dedicated to bridging the gap between theoretical research and reliable, production-ready healthcare solutions.
 
-* 🎓 **Affiliation:** Final-year Data Science Student at [HUFLIT](https://huflit.edu.vn/).
+* 🎓 **Affiliation:** Final-year Data Science Student at HUFLIT.
 * 🔬 **Core Research:** Medical Imaging Segmentation, LLM Reasoning, AI Agent.
 
 ### 📚 Selected Publication
