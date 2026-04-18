@@ -4,7 +4,7 @@
 </h1>
   <p align="center">
     <strong>AI Researcher</strong><br>
-    Focusing on Feature Representation & Vision Large Language Models
+    Focusing on Feature Representation & Vision Language Models
   </p>
 
   <p align="center">
