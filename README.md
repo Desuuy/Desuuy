@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anh+Huy+Nguyen;" />
 </h1>
   <p align="center">
-    <strong>AI Researcher</strong><br>
+    <strong>AI Researcher </strong><br>
     Focusing on Feature Representation & Vision Language Models
   </p>
 
